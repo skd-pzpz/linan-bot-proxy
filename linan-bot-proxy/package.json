@@ -1,0 +1,6 @@
+{
+  "name": "linan-bot-proxy",
+  "version": "1.0.0",
+  "description": "林安数字分身 - GLM API 代理",
+  "private": true
+}
