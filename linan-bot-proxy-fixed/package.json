@@ -1,0 +1,9 @@
+{
+  "name": "linan-bot-proxy",
+  "version": "1.0.0",
+  "description": "GLM API proxy for Linan bot",
+  "private": true,
+  "engines": {
+    "node": "18.x"
+  }
+}
