@@ -1,0 +1,13 @@
+{
+  "name": "linan-homepage",
+  "version": "1.0.0",
+  "description": "林安个人主页 - 数字分身版",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
